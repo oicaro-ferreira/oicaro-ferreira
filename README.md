@@ -1,7 +1,15 @@
 <h1 align="center">Olá! Eu sou o Ícaro Ferreira</h1>
-<h3 align="center">Um Desenvolvedor Front-End do Brasil</h3>
+<h3 align="center">Desenvolvedor Front-End do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oicaro-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="oicaro-ferreira" /> </p>
+
+<p>Concluí o Ensino Médio na EEEP José Ivanilton Nocrato, uma escola estadual profissionalizante, onde cursei o Técnico em Informática e desenvolvi uma base sólida em programação, com conhecimentos em HTML, CSS, JavaScript e Java.
+
+Em 2022, participei do curso da AWS Academy - Cloud Foundations, adquirindo meus primeiros conhecimentos em computação em nuvem.
+
+Atualmente, estou me aprofundando em JavaScript, React e TypeScript, com foco no desenvolvimento Front-End, buscando constantemente aprimorar minhas habilidades e criar interfaces modernas, responsivas e funcionais. Também sigo estudando inglês onde possuo nível intermediário.
+
+Embora ainda não atue profissionalmente na área de tecnologia, tenho grande interesse em ingressar no mercado, contribuindo com projetos e adquirindo novas experiências.</p>
 
 - 🌱 No momento estou estudando **JavaScript, React e TypeScript**
 
