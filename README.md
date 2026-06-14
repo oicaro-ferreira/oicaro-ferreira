@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oicaro-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="oicaro-ferreira" /> </p>
 
-- 🌱 Estou estudando **JavaScript, React e TypeScript**
+- 🌱 No momento estou estudando **JavaScript, React e TypeScript**
 
 - 📫 Contate-me no email: **icaro.nferreira2105@gmail.com**
 
